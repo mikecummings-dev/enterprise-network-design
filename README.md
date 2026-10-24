@@ -8,4 +8,24 @@ This project simulates a small-to-medium enterprise network using Cisco Packet T
 - Internet connectivity
 - Routing and switching infrastructure
 - Scalable enterprise network design
+## Netwrok Architecture
+The network features eight departments spread across four floors each with it's own subnet. The network also features it's own server farm hosted on a DMZ network to separate user devices and servers. Switches were daisy chained to reduce bottlenecking and provide the fastest bandwidth possible. The network uses an organized IP addressing scheme that makes it easy to manage, troubleshoot, and expand in the future.
+## Skills Demonstrated
+- Network Design
+- Routing and Switching
+- Network Segmentation
+- Troubleshooting
+- Infrastructure Documentation
+## Network Diagram 
+<img width="468" height="245" alt="image" src="https://github.com/user-attachments/assets/bc031cee-47b1-4926-8607-9eb13a03e5bc" />
+
+## Future Improvements
+- ACL implementation
+- VLAN implimentation
+- Network monitoring
+- DHCP configuration
+
+
+
+
 
